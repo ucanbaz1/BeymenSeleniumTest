@@ -12,10 +12,7 @@ import static Component.IdDataHelper.*;
 
 
 public class FindItems extends DriverClass {
-
-
     public static String itemPrice;
-
 
     @When("ON MAIN PAGE")
     public void on_main_page()  {

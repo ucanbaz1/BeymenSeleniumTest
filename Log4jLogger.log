@@ -391,3 +391,300 @@
 2022-09-11 21:01:50 INFO  DriverClass:33 - Add one more item
 2022-09-11 21:01:52 INFO  DriverClass:113 - Sleeping for 1000 ms
 2022-09-11 21:01:53 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 21:07:26 INFO  DriverClass:38 - Open Browser
+2022-09-11 21:07:26 INFO  DriverClass:40 - Maximize window size
+2022-09-11 21:07:26 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 21:07:26 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 21:07:26 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:27 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:07:27 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:28 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:07:29 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:30 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:07:32 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 21:07:32 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:33 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:07:33 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:34 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:07:37 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:38 INFO  DriverClass:22 - Select item
+2022-09-11 21:07:38 INFO  DriverClass:30 - Get item information
+2022-09-11 21:07:38 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:39 INFO  DriverClass:38 - Add item to basket
+2022-09-11 21:07:40 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:48 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:49 INFO  DriverClass:24 - Open Basket
+2022-09-11 21:07:49 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:50 INFO  DriverClass:33 - Add one more item
+2022-09-11 21:07:52 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:07:53 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 21:57:09 INFO  DriverClass:38 - Open Browser
+2022-09-11 21:57:09 INFO  DriverClass:40 - Maximize window size
+2022-09-11 21:57:09 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 21:57:09 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 21:57:09 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:10 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:57:11 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:12 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:57:13 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:14 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:57:15 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 21:57:15 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:16 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:57:17 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:18 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:57:21 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:22 INFO  DriverClass:22 - Select item
+2022-09-11 21:57:22 INFO  DriverClass:30 - Get item information
+2022-09-11 21:57:22 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:23 INFO  DriverClass:38 - Add item to basket
+2022-09-11 21:57:23 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:31 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:32 INFO  DriverClass:24 - Open Basket
+2022-09-11 21:57:32 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:33 INFO  DriverClass:33 - Add one more item
+2022-09-11 21:57:35 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:57:36 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 21:58:32 INFO  DriverClass:38 - Open Browser
+2022-09-11 21:58:32 INFO  DriverClass:40 - Maximize window size
+2022-09-11 21:58:32 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 21:58:32 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 21:58:32 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:33 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:58:34 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:35 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:58:35 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:36 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:58:38 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 21:58:38 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:39 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:58:40 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:41 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 21:58:44 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:45 INFO  DriverClass:22 - Select item
+2022-09-11 21:58:45 INFO  DriverClass:30 - Get item information
+2022-09-11 21:58:45 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:46 INFO  DriverClass:38 - Add item to basket
+2022-09-11 21:58:46 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:54 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:55 INFO  DriverClass:24 - Open Basket
+2022-09-11 21:58:55 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:56 INFO  DriverClass:33 - Add one more item
+2022-09-11 21:58:58 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 21:58:59 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:06:14 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:06:14 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:06:14 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 22:06:14 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 22:06:14 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:15 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:06:16 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:17 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:06:17 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:18 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:06:20 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 22:06:20 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:21 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:06:21 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:23 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:06:26 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:27 INFO  DriverClass:22 - Select item
+2022-09-11 22:06:27 INFO  DriverClass:30 - Get item information
+2022-09-11 22:06:27 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:28 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:06:28 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:36 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:37 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:06:37 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:38 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:06:40 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:06:41 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:08:50 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:08:50 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:08:50 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 22:08:50 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 22:08:50 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:08:52 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:08:52 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:08:53 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:08:54 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:08:55 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:08:56 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 22:08:56 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:08:57 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:08:58 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:08:59 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:09:03 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:09:04 INFO  DriverClass:22 - Select item
+2022-09-11 22:09:04 INFO  DriverClass:30 - Get item information
+2022-09-11 22:09:04 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:09:05 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:09:05 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:09:17 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:09:18 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:09:18 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:09:19 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:09:21 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:09:22 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:11:48 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:11:48 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:11:49 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 22:11:49 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 22:11:49 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:11:50 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:11:50 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:11:51 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:11:52 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:11:53 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:11:54 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 22:11:54 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:11:55 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:11:56 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:11:57 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:12:00 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:12:01 INFO  DriverClass:22 - Select item
+2022-09-11 22:12:01 INFO  DriverClass:30 - Get item information
+2022-09-11 22:12:01 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:12:02 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:12:02 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:12:12 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:12:13 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:12:13 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:12:14 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:12:16 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:12:17 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:13:11 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:13:11 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:13:11 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 22:13:11 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 22:13:11 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:12 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:13:13 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:14 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:13:14 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:15 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:13:17 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 22:13:17 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:18 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:13:19 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:20 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:13:23 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:24 INFO  DriverClass:22 - Select item
+2022-09-11 22:13:24 INFO  DriverClass:30 - Get item information
+2022-09-11 22:13:24 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:25 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:13:25 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:32 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:33 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:13:33 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:34 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:13:36 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:13:38 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:14:10 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:14:11 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:14:11 INFO  DriverClass:23 - Check the user is on main pager or not
+2022-09-11 22:14:11 INFO  DriverClass:30 - Search for 'şort' word
+2022-09-11 22:14:11 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:12 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:14:12 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:13 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:14:14 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:15 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:14:16 INFO  DriverClass:37 - Search for 'gömlek' word
+2022-09-11 22:14:16 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:17 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:14:18 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:19 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:14:23 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:24 INFO  DriverClass:22 - Select item
+2022-09-11 22:14:24 INFO  DriverClass:30 - Get item information
+2022-09-11 22:14:24 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:25 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:14:25 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:33 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:34 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:14:34 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:35 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:14:37 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:14:38 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:20:17 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:20:17 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:20:17 INFO  DriverClass:40 - Check the user is on main pager or not
+2022-09-11 22:20:17 INFO  DriverClass:47 - Search for 'şort' word
+2022-09-11 22:20:17 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:18 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:20:19 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:20 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:20:20 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:21 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:20:23 INFO  DriverClass:54 - Search for 'gömlek' word
+2022-09-11 22:20:23 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:24 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:20:24 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:26 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:20:29 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:30 INFO  DriverClass:22 - Select item
+2022-09-11 22:20:30 INFO  DriverClass:30 - Get item information
+2022-09-11 22:20:30 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:31 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:20:31 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:39 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:40 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:20:40 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:41 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:20:43 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:20:44 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:21:26 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:21:26 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:21:27 INFO  DriverClass:21 - Check the user is on main pager or not
+2022-09-11 22:21:27 INFO  DriverClass:28 - Search for 'şort' word
+2022-09-11 22:21:27 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:28 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:21:28 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:29 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:21:30 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:31 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:21:32 INFO  DriverClass:35 - Search for 'gömlek' word
+2022-09-11 22:21:32 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:33 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:21:34 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:35 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:21:38 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:39 INFO  DriverClass:22 - Select item
+2022-09-11 22:21:40 INFO  DriverClass:30 - Get item information
+2022-09-11 22:21:40 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:41 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:21:41 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:48 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:49 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:21:49 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:50 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:21:52 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:21:53 INFO  DriverClass:43 - Delete all item from basket
+2022-09-11 22:34:44 INFO  DriverClass:38 - Open Browser
+2022-09-11 22:34:44 INFO  DriverClass:40 - Maximize window size
+2022-09-11 22:34:44 INFO  DriverClass:20 - Check the user is on main pager or not
+2022-09-11 22:34:44 INFO  DriverClass:27 - Search for 'şort' word
+2022-09-11 22:34:44 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:45 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:34:46 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:47 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:34:48 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:49 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:34:50 INFO  DriverClass:34 - Search for 'gömlek' word
+2022-09-11 22:34:50 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:51 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:34:52 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:53 INFO  DriverClass:113 - Sleeping for 500 ms
+2022-09-11 22:34:56 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:57 INFO  DriverClass:22 - Select item
+2022-09-11 22:34:57 INFO  DriverClass:30 - Get item information
+2022-09-11 22:34:57 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:34:58 INFO  DriverClass:38 - Add item to basket
+2022-09-11 22:34:58 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:35:09 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:35:10 INFO  DriverClass:24 - Open Basket
+2022-09-11 22:35:10 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:35:11 INFO  DriverClass:33 - Add one more item
+2022-09-11 22:35:13 INFO  DriverClass:113 - Sleeping for 1000 ms
+2022-09-11 22:35:14 INFO  DriverClass:43 - Delete all item from basket
